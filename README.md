@@ -1,7 +1,5 @@
 # Google Shopping Pro - Scraper
 
-## Description
-
 The [Google Shopping Pro](https://apify.com/gooyer.co/google-shopping-pro) - Scraper is a sophisticated Actor designed for an in-depth extraction of data from Google Shopping. This tool is capable of retrieving a broad spectrum of information, from search results to intricate details on product pages, including offers, reviews, and specifications. Tailored for flexibility, it supports customized search queries, multiple country domains, and employs advanced proxy settings to navigate through Google's regional variations and anti-scraping measures efficiently.
 
 ## Features
